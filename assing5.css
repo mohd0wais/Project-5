@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head .container h2{
+    text-align: center;
+    margin-top: 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+
+}
+.head .container p{
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+
+}
+.head .container a{
+    text-decoration: none;
+    color: rgb(53, 177, 219);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.row1 .container .para1{
+    margin-top: 120px;
+    margin-left: 380px;
+    border-right: 2px solid rgb(208, 205, 205);
+    padding-right: 40px;
+    height: 240px;
+    
+}
+.row1 .container .para1 p{
+    font-weight: bold;
+    font-weight: 100;
+}
+.row1 .container .para1 button{
+    margin: 10px;
+    right: 15px;
+    top: 8px;
+    position: relative;
+    padding: 12px;
+    width: 230px;
+    border-radius: 15px;
+    border: none;
+    
+
+}
+.row1 .container .para1 .x{
+    background-color: rgb(51, 145, 238);
+    color: white;
+    font-size: larger;
+}
+.row1 .container .para1 .y{
+    background-color: rgb(159, 188, 250);
+    color: white;
+    font-size: larger;
+}
+.row1 .container .para1 .z{
+    background-color: rgb(242, 61, 20);
+    color: white;
+    font-size: larger;
+}
+.row1 .container .para2 label{
+    display: block;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+    margin-bottom: 5px;
+
+
+}
+.row1 .container .para2 input{
+    display: block;
+    height: 30px;
+    width: 350px;
+    margin-bottom: 22px;
+}
+.row1 .container .para2 p{
+    font-weight: bold;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.row1 .container .para2 a{
+    text-decoration: none;
+    color: rgb(53, 177, 219);
+
+}
+.row1 .container .para2 button{
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+
+    background-color: rgb(34, 186, 34);
+    font-size: larger;
+
+
+}
+.row1 .container .para2{
+    
+    padding: 30px;
+    padding-right: 70px;
+    margin-left: 40px;
+    margin-top: 80px;
+    
+}
+.row1 .container{
+    display: flex;
+}
